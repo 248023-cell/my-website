@@ -1,0 +1,75 @@
+Create a **complete, modern, responsive portfolio website** in a **single HTML file** that contains all HTML, CSS, and JavaScript. Do **not** use any external files, libraries, or CDNs. The code should be clean, professional, and ready to use. Include **comments** explaining each section so it’s easy to customize.
+
+**Personal Information Placeholders (replace these with your info):**
+- Full Name: [Sara Salem Hafez Hammouri]
+- Profession/Title: [Photographer]
+- Short Bio: [Looking for an opportunity to further develop and enhance me new skills in photography.]
+- Email: [248023@ppu.edu.ps]
+- Phone: [0568802910]
+- Social links: [https://www.instagram.com/sarahammouri066?igsh=czc5OXQ0OXc5NnQ5&utm_source=qr, https://www.tiktok.com/@sarahammouri1?_r=1&_t=ZS-91yg9FRRpCf.]
+- Projects: [Camera Stand, Strong and durable easy to carry and use., https://mimg6cdn.haraj.com.sa/userfiles30/2023-10-31/900x900_8C4A273D-FDE4-4560-9285-6B6D01F5D68F.jpg, https://www.bing.com/images .
+Lighting, Lights up in several colours with a remote and a trace that is easy to carry and use, https://m.media-amazon.com/images/I/61NB5lfu+1L._AC_SL1500_.jpg, https://www.bing.com/images.
+Camera, Camera with Mike and other supplies, https://i5.walmartimages.com/seo/Digital-Camera-4K-Video-NBD-Cameras-for-Photography-for-YouTube-with-WiFi-3-0-IPS-180-Flip-Screen-Wide-Angle-Lens-Macro-Lens-16X-Digital-Zoom_e4c90919-a540-4850-9b05-8ad102908c2e.138a4c576ceb9b2b852dfc0af97af751.jpeg?odnHeight=372&odnWidth=372&odnBg=FFFFFF, https://www.bing.com/images.] (3-5 examples)
+- Skills: [Programming, 80%
+Content Writing, 70%
+Video Editing, 90%
+Social media communication, 90%]
+
+**Website Requirements:**
+
+1. **Header / Navigation**
+   - SARA HAMMOURI
+   - Navigation links: Home, About, Skills, Projects, Contact
+   - Sticky and responsive
+
+2. **Hero Section**
+   - Greeting text: “Hi, I’m [Sara]”
+   - Short profession tagline: “[Capturing moments that matter.]”
+   - Call-to-action button linking to Contact section
+
+3. **About Section**
+   - Include short bio
+   - Profile image (https://i.pinimg.com/564x/fd/c5/f2/fdc5f26d5f55eac2802cf0f3655eed3a.jpg)
+
+4. **Skills Section**
+   - Display skills with animated progress bars or circular charts
+   - Include at least 4-6 skills
+
+5. **Projects Section**
+   - Grid of 3-5 project cards
+   - Each card includes: Project image, title, description, link to project
+   - Hover effects: scale, shadow, or reveal
+
+6. **Contact Section**
+   - Contact form: Name, Email, Message
+   - JavaScript validation: fields cannot be empty, valid email format
+   - Submit button triggers email link (mailto)
+
+7. **Footer**
+   - Social media icons (Instagram, TikTok)
+   - Copyright text
+   - Smooth scroll back-to-top button
+
+8. **Design & UX**
+   - Clean, modern, minimalistic
+   - Fully responsive for mobile, tablet, desktop
+   - Smooth animations and transitions
+   - Optional dark/light theme toggle with JavaScript
+   - Use CSS variables for easy customization
+
+9. **JavaScript Functionality**
+   - Navigation scroll effect (highlight active section)
+   - Animated skill bars
+   - Project card hover interactions
+   - Contact form validation
+   - Theme toggle (dark/light mode)
+
+10. **Extra Requirements**
+   - Semantic HTML5
+   - No external resources, everything embedded in the single HTML file
+   - Comments in HTML, CSS, and JS to guide customization
+   - Optimized for performance and readability
+
+**Output Format:**
+- Provide the **complete HTML file** content ready to copy-paste
+- Include **inline CSS and JavaScript** inside `<style>` and `<script>` tags
